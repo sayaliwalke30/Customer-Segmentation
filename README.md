@@ -8,5 +8,6 @@ Clustering is one of the most common exploratory data analysis technique used to
 #### 1] Data Cleaning
 #### 2] Data pre-processing
 #### 3] K-means algorithm from scratch
+#### 4] elbow and silhouette
 
 
