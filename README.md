@@ -3,7 +3,7 @@ Clustering is one of the most common exploratory data analysis technique used to
 
 ## Problem statement
 #### Create a groups of customers for an e-commerece website and help them to reach out to millions of customer with effective marketing strategy.
-Download dataset from her:
+Download dataset from here:
 https://archive.ics.uci.edu/ml/datasets/Online+Retail
 
 ## Steps :
