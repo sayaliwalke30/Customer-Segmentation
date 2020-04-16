@@ -7,7 +7,7 @@ Download dataset from here:
 https://archive.ics.uci.edu/ml/datasets/Online+Retail
 
 ## Steps :
-#### 1] Data Cleaning
+#### 1] Data Cleaning.
 #### 2] Data pre-processing
 #### 3] K-means algorithm from scratch
 #### 4] Tune the performance of model by finding appropriate value of k by using Elbow and silhouette method
