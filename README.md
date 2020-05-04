@@ -6,7 +6,7 @@ Clustering is one of the most common exploratory data analysis technique used to
 Download dataset from here:
 https://archive.ics.uci.edu/ml/datasets/Online+Retail
 
-## Steps :
+## Steps:
 #### 1] Data Cleaning.
 #### 2] Data pre-processing
 #### 3] K-means algorithm from scratch
